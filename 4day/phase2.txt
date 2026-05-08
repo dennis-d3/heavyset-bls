@@ -1,5 +1,5 @@
 ---
-folder: Phase 2 (8 weeks)
+folder: Phase 2 (weeks 10-17)
 ---
 
 
@@ -12,7 +12,7 @@ D. Skullcrusher, 3 sets, 6-8 reps, 3:00 rest
 
 ## Pull
 A. Barbell Deadlift, 3 sets, 4-6 reps, 3:00 rest
-B. Seated Cable Row (Wide), 3 sets, 4-6 reps, 3:00 rest
+B. Seated Cable Row (Wide), 3 sets, 6-8 reps, 3:00 rest
 C. Chin-up, 3 sets, 4-6 reps, 3:00 rest
 D. Barbell Curl, 3 sets, 6-8 reps, 3:00 rest
 
